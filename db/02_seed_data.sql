@@ -1,5 +1,5 @@
 -- ============================================
--- 🚚 PROYECTO: RUTAS DE ENTREGA - DATOS INICIALES
+-- PROYECTO: RUTAS DE ENTREGA - DATOS INICIALES
 -- Archivo 2/2: Inserción de datos de prueba
 -- Este script inserta datos de ejemplo en las tablas existentes.
 -- ============================================
