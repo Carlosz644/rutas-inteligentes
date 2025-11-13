@@ -1,5 +1,5 @@
 -- ============================================
--- 🚚 PROYECTO: RUTAS DE ENTREGA - ESQUEMA
+-- PROYECTO: RUTAS DE ENTREGA - ESQUEMA
 -- Archivo 1/2: Creación de tablas y estructura
 -- ============================================
 
